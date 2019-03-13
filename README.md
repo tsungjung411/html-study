@@ -1,5 +1,6 @@
 ## 基礎學習資源
-- [HTML5 Tutorial](https://www.w3schools.com/html/) 
+- [[w3schools] HTML5 Tutorial](https://www.w3schools.com/html/) 
+- [[tutorialspoint] HTML Online Training](https://www.tutorialspoint.com/html_online_training/) 
 
 ## Canva 進階學習資源
 - [WebGL - Html5 Canvas Overview](http://www.tutorialspoint.com/webgl/)
