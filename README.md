@@ -21,3 +21,4 @@
   - 參考資料
     - [Tab space instead of multiple non-breaking spaces (“nbsp”)?](https://stackoverflow.com/questions/1571648/tab-space-instead-of-multiple-non-breaking-spaces-nbsp)
     - [Various space character entities in HTML](http://muzso.hu/2008/01/09/various-space-character-entities-in-html)
+    - [In HTML & nbsp; & ensp; & emsp; six kinds of spaces tag](https://www.codetd.com/en/article/6915972)
